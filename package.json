@@ -18,5 +18,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/anvaka/alldebian"
+  },
+  "dependencies": {
+    "byline": "^4.2.1",
+    "ngraph.graph": "0.0.11",
+    "ngraph.offline.layout": "^1.0.0",
+    "ngraph.tobinary": "^1.0.1"
   }
 }
